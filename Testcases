@@ -1,4 +1,5 @@
 Tc001:-->  User can create repository 
-Tc002:-->  User can Sign in
+Tc002:-->  User can Log in
 Tc003:-->  Create Repository
 Tc004:-->  Manage Repository
+Tc005:-->  Clone Repository
